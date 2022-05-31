@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4aac8c133f47789e48ad452950a254157bf5a4ed",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x4aac8c133f47789e48ad452950a254157bf5a4ed",
+  "NETWORK": {
+    "NAME": "Etherium",
+    "SYMBOL": "Rinkeby",
+    "ID": 4
+  },
+  "NFT_NAME": "The Stripes NFT",
+  "SYMBOL": "TSNFT",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
